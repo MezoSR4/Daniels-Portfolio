@@ -373,7 +373,8 @@ h1
   font-weight: 300;
 }
 .testi .carousel-item img {
-  width: 10%;
+  min-width: 90px;
+  max-width: 10%;
 }
 /* testi style */
 
